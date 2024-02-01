@@ -10,7 +10,7 @@
 
     &__image {
         position: relative;
-        background-image: url("../images/bg-intro-mobile.svg");
+        // background-image: url("../images/bg-intro-mobile.svg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -26,7 +26,6 @@
             order: 2;
             min-height: 41rem;
             background-image: none;
-            // background-image: url('/images/bg-intro-desktop.svg');
         }
 
         // background image - shapes
